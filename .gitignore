@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Python virtual environments
+venv/
+.venv/
+Backend/venv/
+
+# Secrets
+.env
+*.env
+Backend/.env
+Frontend/.env
+
+# React / Node
+node_modules/
+Frontend/node_modules/
+dist/
+Frontend/dist/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Uploaded user images
+Backend/uploads/
+uploads/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
