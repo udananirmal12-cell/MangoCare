@@ -36,6 +36,7 @@ app = FastAPI(
     version="1.0.0"
 )
 
+# Railway frontend CORS enabled
 app.add_middleware(
     CORSMiddleware,
     allow_origins=[
