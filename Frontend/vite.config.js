@@ -6,7 +6,7 @@ export default defineConfig({
 
   preview: {
     allowedHosts: [
-      "insightful-elegance-production-02d5.up.railway.app"
+      "https://mangocare-production.up.railway.app"
     ]
   }
 });
