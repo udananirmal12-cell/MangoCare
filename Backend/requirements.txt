@@ -1,0 +1,17 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+pymysql
+python-dotenv
+pyjwt
+pwdlib[argon2]
+python-multipart
+pydantic
+email-validator
+requests
+numpy
+pandas
+scikit-learn
+joblib
+tensorflow
+pillow
