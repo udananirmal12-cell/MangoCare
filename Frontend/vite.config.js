@@ -6,7 +6,7 @@ export default defineConfig({
 
   preview: {
     allowedHosts: [
-      "https://mangocare-production.up.railway.app"
+      "mangocare.up.railway.app"
     ]
   }
 });
