@@ -111,18 +111,6 @@ export function AuthProvider({
         password
       });
 
-
-    localStorage.setItem(
-      "mangocare_token",
-      data.access_token
-    );
-
-
-    setUser(
-      data.user
-    );
-
-
     return data;
   }
 

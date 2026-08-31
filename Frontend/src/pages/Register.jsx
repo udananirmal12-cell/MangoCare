@@ -89,7 +89,7 @@ function Register() {
       );
 
 
-      navigate("/");
+      navigate("/login");
 
     } catch (err) {
 
